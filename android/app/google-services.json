@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1059648731028",
+    "project_id": "new-pyramidion",
+    "storage_bucket": "new-pyramidion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059648731028:android:6e67c3015a80c574f58181",
+        "android_client_info": {
+          "package_name": "com.example.pyramidion_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059648731028-ucvvqrc86us6futm0b8166mqdh08be2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzzzR8Er4LkVw6hhfxQ5p8zjbbRtcqCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059648731028-ucvvqrc86us6futm0b8166mqdh08be2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059648731028-k48oijiri4u08015m9p127gs3pbk9hqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pyramidionTwo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
